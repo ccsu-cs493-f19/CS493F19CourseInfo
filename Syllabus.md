@@ -6,7 +6,7 @@ _Central Connecticut State University_
 
 **Office:** MS 303 Phone: 860-832-2719
 
-**Office hours**: TBD; and by appointment.
+**Office hours**: MW: 1:00-2:30, TR 1:30-2:30; and by appointment.
 
 **e-mail:** cwilliams@ccsu.edu
 
@@ -18,7 +18,7 @@ _Central Connecticut State University_
 
 **Required book:**
 
-"Secure Software Design" by Richardson and Thies, 2013.
+["Secure Software Design" by Richardson and Thies, 2013.](https://tinyurl.com/CCSU-F19-CS-493-70)
   * ISBN-13: 9781449626327     
   * ISBN-10:1449626327
 
